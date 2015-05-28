@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Year2Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Year2Project/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Year2Project/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

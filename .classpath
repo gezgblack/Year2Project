@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ojdbc6.jar"/>
+	<classpathentry kind="lib" path="rs2xml.jar"/>
+	<classpathentry kind="lib" path="microba-0.4.4.3.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="out/production/Year2Project"/>
+</classpath>
